@@ -1,0 +1,36 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Sketchfab_model",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                0.0029233423992991447,
+                0.0029233426321297884,
+                0.0029233426321297884
+            ],
+            "translation" : [
+                0,
+                1.0170478820800781,
+                0
+            ]
+        }
+    ]
+}
